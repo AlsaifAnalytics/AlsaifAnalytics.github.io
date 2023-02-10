@@ -23,7 +23,7 @@ avatar_image: /img/alsaif-analytics-linkedin-profile-photo.png
 #-------------------------------
 # Contact links
 linkedln: "https://www.linkedin.com/company/alsaifanalytics/" # Add your linkedln handle
-github: "https://github.com/fawazalsaif600"  # Add your github handle
+github: "https://github.com/AlsaifAnalytics"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
