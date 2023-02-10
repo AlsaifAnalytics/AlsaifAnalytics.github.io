@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Alsaif Analytics
-description: "Alsaif Analytics is an analytics company that is on a mission to be our clients’ long-term partner in success, leveraging the power of data and hard-earned expertise to empower SMBs across the GCC region to reach their most ambitious goals. This portfolio showcases our data analytics capabilities using various analytics and machine learning tools."
+description: "Alsaif Analytics is an analytics company that is on a mission to be our clients’ long-term partner in success, leveraging the power of data and other fields expertise to empower SMBs across the GCC region to reach their most ambitious goals. This portfolio showcases our data analytics capabilities using various analytics and machine learning tools."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
